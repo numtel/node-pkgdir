@@ -1,0 +1,12 @@
+{
+  "name": "pkgdir",
+  "version": "0.0.2",
+  "description": "Export __dirname",
+  "repository": "https://github.com/numtel/node-pkgdir.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "numtel <ben@latenightsketches.com>",
+  "license": "MIT"
+}
