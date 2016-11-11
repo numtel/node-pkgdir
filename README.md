@@ -1,5 +1,7 @@
 # pkgdir
 
+Test
+
 Export one level above `__dirname`. (i.e. Your `node_modules` directory path)
 
 ```
